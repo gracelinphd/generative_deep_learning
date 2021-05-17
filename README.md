@@ -1,6 +1,8 @@
 # Generative Deep Learning
 ### Teaching Machines to paint, write, compose and play
 
+[Cloned from https://github.com/davidADSP/GDL_code 5/17/2021]
+
 The official code repository for examples in the O'Reilly book 'Generative Deep Learning'
 
 https://learning.oreilly.com/library/view/generative-deep-learning/9781492041931/
